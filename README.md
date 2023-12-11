@@ -7,8 +7,8 @@ This repository serves as a comprehensive resource for understanding and managin
 * GenAI Fundamentals: Gain insights into the underlying concepts and technologies that power generative AI models.
 Start your journey into the fascinating world of LLMs with this repository!
 
-# LLM Deployment
+# [LLM Deployment]("LLM_Deployment")
 There are different ways to deploy LLMs and serve the model for Inference.
-* Local Deployment:
+## Local Deployment:
 * Text-Generation-Inference (TGI)
 * Using FastAPI
