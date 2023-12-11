@@ -90,5 +90,5 @@ async def question_generator(q: Query):
 
 
 if __name__ == "__main__":
-    uvicorn.run("model-endpoint:app", host="localhost", port=8080, reload=True)
+    uvicorn.run("app:app", host="localhost", port=8080, reload=True)
 
